@@ -1,3 +1,5 @@
+
+
 # Dice-predict-
 This is a simple Python application that simulates rolling a six-sided die. The app randomly generates a number between 1 and 6, mimicking the experience of rolling a dice. It can be used for games or decision-making processes where random selection is needed.
 
@@ -25,3 +27,16 @@ This project is a simple dice prediction game that allows users to play directly
    ```bash
    git clone git@github.com:Doctype5/Dice-predict-.git
    
+cd Dice-predict-
+cd Dice-predict-
+
+## Install required package 
+pip install -r requirements.txt
+
+
+
+## Run
+python main.py
+
+
+
